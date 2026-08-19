@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ksandeep565/leetcode_questions_solving/tree/master/0283-move-zeroes) |
+| [1480-running-sum-of-1d-array](https://github.com/ksandeep565/leetcode_questions_solving/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/ksandeep565/leetcode_questions_solving/tree/master/0283-move-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ksandeep565/leetcode_questions_solving/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
